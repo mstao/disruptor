@@ -2,6 +2,8 @@
 
 A High Performance Inter-Thread Messaging Library
 
+Uses VarHandles replace Unsafe(JDK11)
+
 ## Maintainer
 
 [Michael Barker](https://github.com/mikeb01)
